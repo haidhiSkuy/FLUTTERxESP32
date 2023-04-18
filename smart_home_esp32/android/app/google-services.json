@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "205494565930",
+    "firebase_url": "https://esp32-aab11-default-rtdb.asia-southeast1.firebasedatabase.app/",
+    "project_id": "esp32-aab11",
+    "storage_bucket": "esp32-aab11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205494565930:android:eaec2731c79b4e3d9b1753",
+        "android_client_info": {
+          "package_name": "com.example.smart_home_esp32"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205494565930-7lalqal2hf5acs8sr0e85u1hogmt46d5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaKdHsHjVrth_l5qThSVJLccVVwsbR8y0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "205494565930-7lalqal2hf5acs8sr0e85u1hogmt46d5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
